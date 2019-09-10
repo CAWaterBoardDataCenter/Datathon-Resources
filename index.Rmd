@@ -1,0 +1,28 @@
+---
+title: "Datathon Resources"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Datathon Resource Repository**
+
+<!--- ### *Resource Repository* {style="padding-top: 0px;"} --->
+This site is a catalog of projects related to various water resource issues that are relevant to datathons and similar events sponsored by or held in collaboration with [California State Water Resources Control Board](https://www.waterboards.ca.gov/). This site is maintained by the Water Board's Office of Information Management and Analysis.
+
+</div>
+<div class="col-sm-6">
+
+![](images/Data_Bear.png)

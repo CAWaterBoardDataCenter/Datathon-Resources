@@ -1,0 +1,11 @@
+name: "datathon-resources"
+output_dir: "."
+navbar:
+  title: "Datathon Resources"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Trash Projects"
+      href: 1-Trash_Projects.html
+    - text: "Other Topics"
+      href: 2-Other_Topics.html
