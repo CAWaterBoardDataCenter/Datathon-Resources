@@ -6,6 +6,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Trash Projects"
-      href: 1-Trash_Projects.html
+      href: TrashProjects.html
     - text: "Other Topics"
-      href: 2-Other_Topics.html
+      href: OtherTopics.html
