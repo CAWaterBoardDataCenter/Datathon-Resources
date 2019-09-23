@@ -7,5 +7,7 @@ navbar:
       href: index.html
     - text: "Trash Projects"
       href: TrashProjects.html
+    - text: "2019 Drinking Water Projects"
+      href: 2019_DrinkingWater.html  
     - text: "Other Topics"
       href: OtherTopics.html

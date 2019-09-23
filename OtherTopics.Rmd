@@ -5,4 +5,3 @@ output: html_document
 
 ### Resources From Previous Datathons
 - [2018 Water Data Challenge and Prior Water Datathon Projects](https://github.com/waterdatacollaborative) (from Berkeley Water Data Collaborative)
-- 2019 Water Data Challenge Projects (coming soon)
