@@ -5,3 +5,12 @@ output: html_document
 
 ### 2019 Water Data Challenge Projects
 - [California Consumer Confidence Report Portal](https://caccr.github.io/) (more information [here](https://richpauloo.github.io/2019-09-16-A-water-quality-portal-for-California/))
+- [Statewide Interactive Map of Lead in Drinking Water](https://geosurge.github.io/get-the-lead-out-map/)
+- [PFAS – We Eat It, We Drink It, We Breathe It](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/)
+- [Source Water Time Machine](https://jjspector.shinyapps.io/source_water_time_machine/)
+- [Water Rate Structures– Do They Make Cents?](https://ianartmor.github.io/ca_owrs/)
+- [Water Scarcity Clock](https://www.worldwater.io/)
+- Blue Conduit
+- [California Safe Drinking Water](http://water.openoakland.org/)
+- Jata Water Solution
+- [Spotting the Drought](https://californiadrought.shinyapps.io/WaterWells/)
